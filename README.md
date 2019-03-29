@@ -1,4 +1,7 @@
 # 个人号二次开发接口 基于pc微信
+<b>微信 2.6.7 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br>
+
+<br>
 <b>update：2018年11月27日 新增发送视频、发送文件接口</b><br>
 c#微信机器人 PC hook 稳定不掉线 微信个人号接口 （自动通过、拉群，踢人，发图片，自动回复）<br><br>
 
