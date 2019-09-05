@@ -3,7 +3,7 @@
 
 <b>2019-9-1已经更新至2.6.8客户端版本。</b><br>
 <b>新增微信群实时进群退群通知</b>
-<b>微信 2.6.7 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br>
+<b>微信 2.6.8 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br>
 
 <br>
 <b>update：2018年11月27日 新增发送视频、发送文件接口</b><br>
