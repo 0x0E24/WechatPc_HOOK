@@ -1,9 +1,24 @@
 # 个人号二次开发接口 基于pc微信
 <br>
+<br/>
 
-<b>2019-9-1已经更新至2.6.8客户端版本。</b><br>
+<b>2019-1-10已经更新至微信2.8.0客户端版本。</b><br>
 <b>新增微信群实时进群退群通知</b>
-<b>微信 2.6.8 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br><br>
+<b>微信 2.8.0 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br><br>
+
+<br/><br/><b>2020年01月10日 Update</b><br><br/>
+接收消息新增发信息人昵称、群内也是一样。新增发信息人昵称字段。<br/>
+<b>2020年01月06日 Update</b><br>
+<b>1、协议更新，支持微信当前最新版本2.8.0</b><br/>
+2、全面支持emoji表情<br/>
+3、支持自定义发送小程序。<br/>
+4、指定任意发送消息撤回。<br/><br/><br/>
+<b>2019年11月14日 Update</b><br>
+新增禁止微信自动更新规则，采取两个方面。<br>
+1、从hook层面禁止更新。<br>
+2、从系统层面禁止微信下载新版本。<br/><br/>
+<br/>
+
 <b>2019年11月9日 Update</b><br>
 1、修复图片可能在路径超长的目录下发送不出去。<br>
 2、进群实时回调信息优化<br>
