@@ -6,7 +6,8 @@ using Newtonsoft.Json.Linq;
 namespace WxRobot
 {
 	/// <summary>
-	/// Description of WeChatAPI.
+        ///  QQ 414917832
+	/// Description of WeChatAPI. 
 	/// </summary>
 	public class WeChatAPI
 	{
