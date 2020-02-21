@@ -4,8 +4,11 @@
 
 <b>2019-1-10已经更新至微信2.8.0客户端版本。</b><br>
 <b>新增微信群实时进群退群通知</b>
-<b>微信 2.8.0 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br><br>
-
+<b>微信 2.8.0 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br>
+<br/><br/><b>2020年02月21日 Update</b><br>
+新增websocket通讯协议，可以网页收发消息。比http方式响应更及时，支持任何语言对接。欢迎来测试。
+<br/><br/><b>2020年02月04日 Update</b><br>
+开工啦~订单丢过来~ 武汉加油！中国加油！
 <br/><br/><b>2020年01月10日 Update</b><br><br/>
 接收消息新增发信息人昵称、群内也是一样。新增发信息人昵称字段。<br/>
 <b>2020年01月06日 Update</b><br>
