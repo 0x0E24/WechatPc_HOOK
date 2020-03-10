@@ -1,7 +1,9 @@
 # 个人号二次开发接口 基于pc微信
 <br>
 <br/>
-
+<br/><br/><b>2020年03月10日 Update</b><br>
+经过大量测试，现升级协议，最新支持微信PC2.8.0.112。新增了http回调域名配置。
+<br/><br/>
 <b>2019-1-10已经更新至微信2.8.0客户端版本。</b><br>
 <b>新增微信群实时进群退群通知</b>
 <b>微信 2.8.0 新版hook地址 c# 调用<a href="https://github.com/0x0E24/weixin_wechat_hook"></a> https://github.com/0x0E24/weixin_wechat_hook</b><br>
