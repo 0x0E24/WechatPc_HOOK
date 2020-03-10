@@ -51,7 +51,8 @@ c#微信机器人 PC hook 稳定不掉线 微信个人号接口 （自动通过�
 非web网站接口，是基于微信pc版本制作。稳定不封号，连续挂机不掉线。<br>
 
 详情加QQ：414917832（备注WechatPc_HOOK）<br><br>
-<img src="https://tva1.sinaimg.cn/large/007y3fKjly1gai6nx1x7zj30p20dc402.jpg">
+<img src="https://ae01.alicdn.com/kf/U76eee2e2aed545c99c5caadf7e59faf8a.jpg" >
+<img src="https://ae01.alicdn.com/kf/Uc6ffb8a6a2e14bed8cfee308b2f243f0h.jpg" >
+<h3>方法接口</h3>
+<img src="https://ae01.alicdn.com/kf/Ua1573e255fcd41c7b752a62faabe9c436.jpg" >
 
-<img src="https://tva1.sinaimg.cn/large/007y3fKjly1gai6nwzvx3j30p20dc0ts.jpg">
-<img src="https://tva1.sinaimg.cn/large/007y3fKjly1gai6nx2w1yj30o10t4ae7.jpg">
